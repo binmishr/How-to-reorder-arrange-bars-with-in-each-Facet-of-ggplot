@@ -1,0 +1,1 @@
+# How-to-reorder-arrange-bars-with-in-each-Facet-of-ggplot
